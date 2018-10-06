@@ -42,31 +42,36 @@ happens to the righteous and the wicked, <br>
 to the good and the evil, to the clean and the unclean, <br>
 to him who sacrifices and him who does not sacrifice.
 
-As the good one is, so is the sinner, <br>
-and he who swears is as he who shuns an oath.
-
 <div class="zh">
 凡 臨 到 眾 人 的 事 都 是 一 樣 ：<br>
 義 人 和 惡 人 都 遭 遇 一 樣 的 事 ；<br>
 好 人 ， 潔 淨 人 和 不 潔 淨 人 ，<br>
 獻 祭 的 與 不 獻 祭 的 ， 也 是 一 樣 。<br>
-好 人 如 何 ， 罪 人 也 如 何 ；<br>
-起 誓 的 如 何 ， 怕 起 誓 的 也 如 何 。
 </div>
 
 ---
+As the good one is, so is the sinner, <br>
+and he who swears is as he who shuns an oath.
+
 3
 This is an evil in all that is done under the sun, <br>
 that the same event happens to all.
 
+<div class="zh">
+好 人 如 何 ， 罪 人 也 如 何 ；<br>
+起 誓 的 如 何 ， 怕 起 誓 的 也 如 何 。
+3
+在 日 光 之 下 所 行 的 一 切 事 上<br>
+有 一 件 禍 患 ，<br>
+就 是 眾 人 所 遭 遇 的 都 是 一 樣 ，
+</div>
+
+---
 Also, the hearts of the children of man are full of evil,<br>
 and madness is in their hearts while they live, <br>
 and after that they go to the dead.
 
 <div class="zh">
-在 日 光 之 下 所 行 的 一 切 事 上<br>
-有 一 件 禍 患 ，<br>
-就 是 眾 人 所 遭 遇 的 都 是 一 樣 ，<br>
 並 且 世 人 的 心 充 滿 了 惡 ；<br>
 活 著 的 時 候 心 裡 狂 妄 ，<br>
 後 來 就 歸 死 人 那 裡 去 了 。
@@ -77,6 +82,13 @@ and after that they go to the dead.
 But he who is joined with all the living has hope, <br>
 for a living dog is better than a dead lion.
 
+<div class="zh">
+與 一 切 活 人 相 連 的 ，<br>
+那 人 還 有 指 望 ，<br>
+因 為 活 著 的 狗 比 死 了 的 獅 子 更 強 。<br>
+</div>
+
+---
 5
 For the living know that they will die, <br>
 but the dead know nothing, <br>
@@ -84,13 +96,10 @@ and they have no more reward,<br>
 for the memory of them is forgotten.
 
 <div class="zh">
-與 一 切 活 人 相 連 的 ，<br>
-那 人 還 有 指 望 ，<br>
-因 為 活 著 的 狗 比 死 了 的 獅 子 更 強 。<br>
-
 5
 活 著 的 人 知 道 必 死 ；<br>
-死 了 的 人 毫 無 所 知 ， 也 不 再 得 賞 賜 ；<br>
+死 了 的 人 毫 無 所 知 ，<br>
+也 不 再 得 賞 賜 ；<br>
 他 們 的 名 無 人 記 念 。
 </div>
 
