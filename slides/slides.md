@@ -59,7 +59,7 @@ that the same event happens to all.
 
 <div class="zh">
 好 人 如 何 ， 罪 人 也 如 何 ；<br>
-起 誓 的 如 何 ， 怕 起 誓 的 也 如 何 。
+起 誓 的 如 何 ， 怕 起 誓 的 也 如 何 。 <br>
 3
 在 日 光 之 下 所 行 的 一 切 事 上<br>
 有 一 件 禍 患 ，<br>
