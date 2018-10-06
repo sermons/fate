@@ -15,7 +15,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# What is the **fate** of mankind?
 
 [###](#/outline "secret")
 
