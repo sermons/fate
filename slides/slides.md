@@ -1,7 +1,9 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> id="title" -->
 # Fate
 ## Ecclesiastes 9:1-10
 ### The Meaning of Life (4/5)
+
+[Neil Thomas](https://unsplash.com/photos/bSYRuzEaT5k "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -10,7 +12,7 @@
 [###](#/outline "secret")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> id="outline" class="outline" -->
 ## Fate [(Ecc9)](# "ref")
 1. One **Fate** for All [(v1-3)](# "ref")
 2. Where There Is **Life**, There Is **Hope** [(v4-6)](# "ref")
