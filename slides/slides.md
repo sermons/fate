@@ -7,11 +7,11 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="series" class="outline" -->
-1. **Wisdom** [(ch1)](# "ref"): Sat am
-1. **Ambition** [(ch2)](# "ref"): Sat pm
-1. **Money** [(ch5)](# "ref"): Sun am
-1. **Fate** [(ch9)](# "ref"): Sun pm
-1. **Life** [(ch12)](# "ref"): Mon am
+1. *Sat am:* What is **Wisdom**? [(ch1)](# "ref")
+1. *Sat pm:* Is there meaning in **Ambition**? [(ch2)](# "ref")
+1. *Sun am:* Is there meaning in **Money**? [(ch5)](# "ref")
+1. *Sun pm:* What is the **Fate** of mankind? [(ch9)](# "ref")
+1. *Mon am:* What is the meaning of **Life**? [(ch12)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
