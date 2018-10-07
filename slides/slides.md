@@ -176,3 +176,18 @@ or wisdom in Sheol, to which you are going.
 2. Where There Is **Life**, There Is **Hope** [(v4-6)](# "ref")
 3. **Reward** in Life [(v7-10)](# "ref")
 
+---
+## (pt3)
+## 1 cor 15:17-19
+## if only hope in this life
+
+---
+## 1 Cor 15:20
+## Christ has been raised
+
+---
+## (poss Mon am)
+## Phil 1 fruitful labor
+## 1 Cor 15:30-32 why suffer for gospel
+## vs eat drink die
+
