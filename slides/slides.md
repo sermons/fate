@@ -26,55 +26,27 @@ But all this I laid to heart, examining it all, <br>
 how the righteous and the wise <br>
 and their deeds are in the hand of God.
 
-Whether it is love or hate,<br>
-man does not know; both are before him.
-
 <div class="zh">
 [1](# "ref")
 我 將 這 一 切 事 放 在 心 上 ，<br>
 詳 細 考 究 ， 就 知 道 義 人 和 智 慧 人 ，<br>
 並 他 們 的 作 為 都 在 神 手 中 ；<br>
-或 是 愛 ， 或 是 恨 ，<br>
-都 在 他 們 的 前 面 ， 人 不 能 知 道 。
 </div>
 
-[Ecclesiastes 傳道書 9:1 (ESV/CUV) (p.1/10)](# "ref")
+[Ecclesiastes 傳道書 9:1a (ESV/CUV) (p.1/8)](# "ref")
 
 ---
 [2](# "ref")
 It is the same for all, since the same event <br>
-happens to the righteous and the wicked, <br>
-to the good and the evil, to the clean and the unclean, <br>
-to him who sacrifices and him who does not sacrifice.
+happens to the righteous and the wicked,
 
 <div class="zh">
 [2](# "ref")
 凡 臨 到 眾 人 的 事 都 是 一 樣 ：<br>
-義 人 和 惡 人 都 遭 遇 一 樣 的 事 ；<br>
-好 人 ， 潔 淨 人 和 不 潔 淨 人 ，<br>
-獻 祭 的 與 不 獻 祭 的 ， 也 是 一 樣 。<br>
+義 人 和 惡 人 都 遭 遇 一 樣 的 事 ；
 </div>
 
-[Ecclesiastes 傳道書 9:2 (ESV/CUV) (p.2/10)](# "ref")
-
----
-As the good one is, so is the sinner, <br>
-and he who swears is as he who shuns an oath.
-
-[3](# "ref")
-This is an evil in all that is done under the sun, <br>
-that the same event happens to all.
-
-<div class="zh">
-好 人 如 何 ， 罪 人 也 如 何 ；<br>
-起 誓 的 如 何 ， 怕 起 誓 的 也 如 何 。 <br>
-[3](# "ref")
-在 日 光 之 下 所 行 的 一 切 事 上<br>
-有 一 件 禍 患 ，<br>
-就 是 眾 人 所 遭 遇 的 都 是 一 樣 ，
-</div>
-
-[Ecclesiastes 傳道書 9:3 (ESV/CUV) (p.3/10)](# "ref")
+[Ecclesiastes 傳道書 9:2a (ESV/CUV) (p.2/8)](# "ref")
 
 ---
 Also, the hearts of the children of man are full of evil,<br>
@@ -87,7 +59,7 @@ and after that they go to the dead.
 後 來 就 歸 死 人 那 裡 去 了 。
 </div>
 
-[Ecclesiastes 傳道書 9:3 (ESV/CUV) (p.4/10)](# "ref")
+[Ecclesiastes 傳道書 9:3 (ESV/CUV) (p.3/8)](# "ref")
 
 ---
 [4](# "ref")
@@ -101,7 +73,7 @@ for a living dog is better than a dead lion.
 因 為 活 著 的 狗 比 死 了 的 獅 子 更 強 。<br>
 </div>
 
-[Ecclesiastes 傳道書 9:4 (ESV/CUV) (p.5/10)](# "ref")
+[Ecclesiastes 傳道書 9:4 (ESV/CUV) (p.4/8)](# "ref")
 
 ---
 [5](# "ref")
@@ -118,48 +90,7 @@ for the memory of them is forgotten.
 他 們 的 名 無 人 記 念 。
 </div>
 
-[Ecclesiastes 傳道書 9:5 (ESV/CUV) (p.6/10)](# "ref")
-
----
-[6](# "ref")
-Their love and their hate and their envy <br>
-have already perished,
-
-and forever they have no more share <br>
-in all that is done under the sun.
-
-<div class="zh">
-[6](# "ref")
-他 們 的 愛 ， 他 們 的 恨 ，<br>
-他 們 的 嫉 妒 ， 早 都 消 滅 了 。<br>
-在 日 光 之 下 所 行 的 一 切 事 上 ，<br>
-他 們 永 不 再 有 分 了 。
-</div>
-
-[Ecclesiastes 傳道書 9:6 (ESV/CUV) (p.7/10)](# "ref")
-
----
-[7](# "ref")
-Go, eat your bread with joy, <br>
-and drink your wine with a merry heart, <br>
-for God has already approved what you do.
-
-[8](# "ref")
-Let your garments be always white. <br>
-Let not oil be lacking on your head.
-
-<div class="zh">
-[7](# "ref")
-你 只 管 去 歡 歡 喜 喜 吃 你 的 飯 ，<br>
-心 中 快 樂 喝 你 的 酒 ，<br>
-因 為 神 已 經 悅 納 你 的 作 為 。<br>
-
-[8](# "ref")
-你 的 衣 服 當 時 常 潔 白 ，<br>
-你 頭 上 也 不 要 缺 少 膏 油 。
-</div>
-
-[Ecclesiastes 傳道書 9:7-8 (ESV/CUV) (p.8/10)](# "ref")
+[Ecclesiastes 傳道書 9:5 (ESV/CUV) (p.5/8)](# "ref")
 
 ---
 [9](# "ref")
@@ -167,19 +98,25 @@ Enjoy life with the wife whom you love, <br>
 all the days of your vain life <br>
 that he has given you under the sun,
 
-because that is your portion in life <br>
-and in your toil at which you toil under the sun.
-
 <div class="zh">
 [9](# "ref")
 在 你 一 生 虛 空 的 年 日 ， 就 是 <br>
 神 賜 你 在 日 光 之 下 虛 空 的 年 日 ，<br>
 當 同 你 所 愛 的 妻 ， 快 活 度 日 ，<br>
+</div>
+
+[Ecclesiastes 傳道書 9:9a (ESV/CUV) (p.6/8)](# "ref")
+
+---
+because that is your portion in life <br>
+and in your toil at which you toil under the sun.
+
+<div class="zh">
 因 為 那 是 你 生 前 在 日 光 之 下<br>
 勞 碌 的 事 上 所 得 的 分 。
 </div>
 
-[Ecclesiastes 傳道書 9:9 (ESV/CUV) (p.9/10)](# "ref")
+[Ecclesiastes 傳道書 9:9b (ESV/CUV) (p.7/8)](# "ref")
 
 ---
 [10](# "ref")
@@ -196,7 +133,7 @@ or wisdom in Sheol, to which you are going.
 也 沒 有 智 慧 。
 </div>
 
-[Ecclesiastes 傳道書 9:10 (ESV/CUV) (p.10/10)](# "ref")
+[Ecclesiastes 傳道書 9:10 (ESV/CUV) (p.8/8](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> id="outline" class="outline" -->
@@ -208,14 +145,10 @@ or wisdom in Sheol, to which you are going.
 ---
 It is the **same** for all, since the same event <br>
 happens to the **righteous** and the **wicked**, <br>
-to the **good** and the **evil**, to the **clean** and the unclean, <br>
-to him who **sacrifices** and him who does not sacrifice.
 
 <div class="zh">
 凡 臨 到 眾 人 的 事 都 是 一 樣 ：<br>
-義 人 和 惡 人 都 遭 遇 一 樣 的 事 ；<br>
-好 人 ， 潔 淨 人 和 不 潔 淨 人 ，<br>
-獻 祭 的 與 不 獻 祭 的 ， 也 是 一 樣 。<br>
+義 人 和 惡 人 都 遭 遇 一 樣 的 事 ；
 </div>
 
 [Ecclesiastes 傳道書 9:2 (ESV/CUV)](# "ref")
@@ -252,21 +185,7 @@ and the fate of beasts is the **same**.
 所 遭 遇 的 都 是 一 樣 ：
 </div>
 
-[Ecclesiastes 傳道書 3:18-19 (ESV/CUV) (p.1/3)](# "ref")
-
----
-As one **dies** so dies the other; <br>
-indeed, they all have the same **breath** <br>
-and there is no **advantage** for man over beast, <br>
-for all is **vanity**.
-
-<div class="zh">
-這 個 怎 樣 死 ， 那 個 也 怎 樣 死 ， <br>
-氣 息 都 是 一 樣 。 <br>
-人 不 能 強 於 獸 ， 都 是 虛 空 。
-</div>
-
-[Ecclesiastes 傳道書 3:19 (ESV/CUV) (p.2/3)](# "ref")
+[Ecclesiastes 傳道書 3:18-19 (ESV/CUV) (p.1/2)](# "ref")
 
 ---
 For **who** will bring him to see <br>
@@ -276,7 +195,7 @@ what will occur **after** him?
 他 身 後 的 事 誰 能 使 他 回 來 得 見 呢 ？
 </div>
 
-[Ecclesiastes 傳道書 3:22 (ESV/CUV) (p.3/3)](# "ref")
+[Ecclesiastes 傳道書 3:22 (ESV/CUV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
