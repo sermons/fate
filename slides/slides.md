@@ -254,11 +254,6 @@ or wisdom in **Sheol**, to which you are going.
 [Ecclesiastes 傳道書 9:10 (ESV/CUV)](# "ref")
 
 ---
-<!-- .slide: data-background="white" -->
-# Q3
-
----
-## (pt3)
 ## 1 cor 15:17-19
 ## if only hope in this life
 
@@ -267,8 +262,6 @@ or wisdom in **Sheol**, to which you are going.
 ## Christ has been raised
 
 ---
-## (poss Mon am)
-## Phil 1 fruitful labor
-## 1 Cor 15:30-32 why suffer for gospel
-## vs eat drink die
+<!-- .slide: data-background="white" -->
+# Q3
 
