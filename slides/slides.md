@@ -205,3 +205,122 @@ or wisdom in Sheol, to which you are going.
 2. Where There Is **Life**, There Is **Hope** [(v4-6)](# "ref")
 3. **Reward** in Life [(v7-10)](# "ref")
 
+---
+It is the **same** for all, since the same event <br>
+happens to the **righteous** and the **wicked**, <br>
+to the **good** and the **evil**, to the **clean** and the unclean, <br>
+to him who **sacrifices** and him who does not sacrifice.
+
+<div class="zh">
+凡 臨 到 眾 人 的 事 都 是 一 樣 ：<br>
+義 人 和 惡 人 都 遭 遇 一 樣 的 事 ；<br>
+好 人 ， 潔 淨 人 和 不 潔 淨 人 ，<br>
+獻 祭 的 與 不 獻 祭 的 ， 也 是 一 樣 。<br>
+</div>
+
+[Ecclesiastes 傳道書 9:2 (ESV/CUV)](# "ref")
+
+---
+I said to myself concerning the sons of **men**, <br>
+“God has surely **tested** them in order  <br>
+for them to see that they are but **beasts**.”
+
+For the **fate** of the sons of men <br>
+and the fate of beasts is the **same**.
+
+<div class="zh">
+我 心 裡 說 ， 這 乃 為 世 人 的 緣 故 ， <br>
+是 神 要 試 驗 他 們 ，  <br>
+使 他 們 覺 得 自 己 不 過 像 獸 一 樣 。<br>
+
+[19](# "ref")
+因 為 世 人 遭 遇 的 ， 獸 也 遭 遇 ， <br>
+所 遭 遇 的 都 是 一 樣 ：
+</div>
+
+[Ecclesiastes 傳道書 3:18-19 (ESV/CUV) (p.1/3)](# "ref")
+
+---
+As one **dies** so dies the other; <br>
+indeed, they all have the same **breath** <br>
+and there is no **advantage** for man over beast, <br>
+for all is **vanity**.
+
+<div class="zh">
+這 個 怎 樣 死 ， 那 個 也 怎 樣 死 ， <br>
+氣 息 都 是 一 樣 。 <br>
+人 不 能 強 於 獸 ， 都 是 虛 空 。
+</div>
+
+[Ecclesiastes 傳道書 3:19 (ESV/CUV) (p.2/3)](# "ref")
+
+---
+For **who** will bring him to see <br>
+what will occur **after** him?
+
+<div class="zh">
+他 身 後 的 事 誰 能 使 他 回 來 得 見 呢 ？
+</div>
+
+[Ecclesiastes 傳道書 3:22 (ESV/CUV) (p.3/3)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+# Q1
+
+---
+## (outline)
+
+---
+But he who is joined with all the **living** has **hope**, <br>
+for a **living dog** is better than a **dead lion**.
+
+<div class="zh">
+與 一 切 活 人 相 連 的 ，<br>
+那 人 還 有 指 望 ，<br>
+因 為 活 著 的 狗 比 死 了 的 獅 子 更 強 。<br>
+</div>
+
+[Ecclesiastes 傳道書 9:4 (ESV/CUV)](# "ref")
+
+---
+For the living **know** that they will die, <br>
+but the dead know **nothing**, <br>
+and they have no more **reward**,<br>
+for the **memory** of them is forgotten.
+
+<div class="zh">
+活 著 的 人 知 道 必 死 ；<br>
+死 了 的 人 毫 無 所 知 ，<br>
+也 不 再 得 賞 賜 ；<br>
+他 們 的 名 無 人 記 念 。
+</div>
+
+[Ecclesiastes 傳道書 9:5 (ESV/CUV)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+## (outline)
+
+---
+Whatever your **hand** finds to do, do it with your **might**,
+
+for there is no **work** or **thought** or knowledge <br>
+or wisdom in **Sheol**, to which you are going.
+
+<div class="zh">
+凡 你 手 所 當 做 的 事 要 盡 力 去 做 ；<br>
+因 為 在 你 所 必 去 的 陰 間 沒 有 工 作 ，<br>
+沒 有 謀 算 ， 沒 有 知 識 ， <br>
+也 沒 有 智 慧 。
+</div>
+
+[Ecclesiastes 傳道書 9:10 (ESV/CUV)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
