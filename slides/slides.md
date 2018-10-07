@@ -221,6 +221,20 @@ to him who **sacrifices** and him who does not sacrifice.
 [Ecclesiastes 傳道書 9:2 (ESV/CUV)](# "ref")
 
 ---
+Also, the **hearts** of the children of man <br>
+are full of **evil**, <br>
+and **madness** is in their hearts while they live, <br>
+and after that they go to the **dead**.
+
+<div class="zh">
+並 且 世 人 的 心 充 滿 了 惡 ；<br>
+活 著 的 時 候 心 裡 狂 妄 ，<br>
+後 來 就 歸 死 人 那 裡 去 了 。
+</div>
+
+[Ecclesiastes 傳道書 9:3 (ESV/CUV)](# "ref")
+
+---
 I said to myself concerning the sons of **men**, <br>
 “God has surely **tested** them in order  <br>
 for them to see that they are but **beasts**.”
