@@ -11,14 +11,31 @@
 1. *Sat pm:* Is there <br> meaning
   in **Ambition** + **Money**? [(ch2,5)](# "ref")
 1. *Sun am:* What is **Wisdom**? [(ch1)](# "ref")
-1. *Sun pm:* What is the **Fate** of mankind? [(ch9)](# "ref")
+1. *Sun pm:* What is our **Fate**? [(ch9)](# "ref")
 1. *Mon am:* What is the meaning of **Life**? [(ch12)](# "ref")
+
+>>>
++ Sol's **search** for meaning / purpose
++ tried **pleasure, projects, possessions**
+  + what is **crooked** cannot be straightened
++ tried **wisdom** + **folly**
+  + wisdom: only more **frustration**
+  + folly: **harms** self
++ tonight: recurring theme in Eccl
+  + inevitability of **death**
++ Sol **blessed** by God w/wisdom
+  + Eccl all **true** Word of God
++ but **incomplete** bc Sol did not have
+  + hope of **resurrection**
 
 ---
 <!-- .slide: data-background="white" -->
-# What is the **fate** of mankind?
+# What is our **fate**?
 
 [###](#/outline "secret")
+
+>>>
++ who can **tell** us where we go **after** death?
 
 ---
 [1](# "ref")
@@ -142,6 +159,43 @@ or wisdom in Sheol, to which you are going.
 2. Where There Is **Life**, There Is **Hope** [(v4-6)](# "ref")
 3. **Reward** in Life [(v7-10)](# "ref")
 
+>>>
++ we don't like to **think** about death
+  + few Chinese write **wills**
++ but ch7 tells us it is **good** to:
+
+---
+# TODO
+
+<div class="zh">
+</div>
+
+[Ecclesiastes 傳道書 7:4 (ESV/CUV) (p.1/2)](# "ref")
+
+>>>
++ house of **mourning**:
+  + think about, **prepare** for death
++ house of **pleasure**:
+  + **ignore** death
+  + **distract** self
++ again in **v2** of same ch:
+
+---
+# TODO
+
+<div class="zh">
+</div>
+
+[Ecclesiastes 傳道書 7:2 (ESV/CUV) (p.2/2)](# "ref")
+
+>>>
++ **young** people: death is **far** off
+  + worry about it **later**
++ but **none** of us know when
+  + our **hour** will come (v12)
++ all the **living** should pay attention
++ Sol's observation in **today's** passage:
+
 ---
 It is the **same** for all, since the same event <br>
 happens to the **righteous** and the **wicked**, <br>
@@ -152,6 +206,17 @@ happens to the **righteous** and the **wicked**, <br>
 </div>
 
 [Ecclesiastes 傳道書 9:2 (ESV/CUV)](# "ref")
+
+>>>
++ from Sol's perspective, only sees up to **death**
+  + not **beyond** death
++ so it looks like the **same** fate for all
+  + **righteous** or evil
+  + **religious** or not
+  + **frugal** with money or profligate
++ so does it **matter** if one is good?
++ the **default** path of the heart
+  + is toward **evil**:
 
 ---
 Also, the **hearts** of the children of man <br>
@@ -166,6 +231,13 @@ and after that they go to the **dead**.
 </div>
 
 [Ecclesiastes 傳道書 9:3 (ESV/CUV)](# "ref")
+
+>>>
++ given **freedom** of choice, we choose
+  + **evil**: wrong, corrupt
+  + **madness**: insane, irrational
++ in **ch3** Sol goes even **further**
+  + compares us to the **animals**:
 
 ---
 I said to myself concerning the sons of **men**, <br>
@@ -187,22 +259,36 @@ and the fate of beasts is the **same**.
 
 [Ecclesiastes 傳道書 3:18-19 (ESV/CUV) (p.1/2)](# "ref")
 
----
-For **who** will bring him to see <br>
-what will occur **after** him?
-
-<div class="zh">
-他 身 後 的 事 誰 能 使 他 回 來 得 見 呢 ？
-</div>
-
-[Ecclesiastes 傳道書 3:22 (ESV/CUV) (p.2/2)](# "ref")
+>>>
++ if our only **hope** is in **this** life,
+  + how do we **differ** from animals?
++ we know how to use **tools**?
+  + how to **write**?
+  + how to **care** for our loved ones?
++ **animals** do all that, too!
++ if we are only **evolved** monkeys,
+  + is **human** life any more precious
+  + than a **dog**, or **bird**, or **ant**?
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# What are my **hopes** for myself and my loved ones?
+
+>>>
++ only **natural** to hope for
+  + a **peaceful** / quiet life
+  + **health** + prosperity
+  + happy **marriage**
+  + see **kids** marry well
++ but if all my hopes are only in **this** life
+  + what will **happen** after we **die**?
 
 ---
-## (outline)
+## (TODO: outline)
+
+>>>
++ if **all** die eventually,
++ is **life** any better than **death**?
 
 ---
 But he who is joined with all the **living** has **hope**, <br>
@@ -216,27 +302,96 @@ for a **living dog** is better than a **dead lion**.
 
 [Ecclesiastes 傳道書 9:4 (ESV/CUV)](# "ref")
 
+>>>
++ "dead lion": famous **historical** people
+  + performed **great** deeds while alive
+  + fought **wars**, establish **gov**
+  + now? only in **textbooks**
++ better to be a **living dog**:
+  + perhaps small, insignificant
++ but if there is **life**, there is **hope**
+  + hope for **what**?
++ not just the **anticipation** of death
++ take **action**, make **change** in life
+  + a chance to **call upon** to God
+  + Isaiah 55:
+
 ---
-For the living **know** that they will die, <br>
-but the dead know **nothing**, <br>
-and they have no more **reward**,<br>
-for the **memory** of them is forgotten.
+**Seek** the LORD while He may be **found**; <br>
+**call upon** Him while He is **near**;
+
+[7](# "ref")
+Let the **wicked** forsake his **way**;<br>
+and the **unrighteous** man his **thoughts**;
 
 <div class="zh">
-活 著 的 人 知 道 必 死 ；<br>
-死 了 的 人 毫 無 所 知 ，<br>
-也 不 再 得 賞 賜 ；<br>
-他 們 的 名 無 人 記 念 。
+# TODO
 </div>
 
-[Ecclesiastes 傳道書 9:5 (ESV/CUV)](# "ref")
+[Isaiah 55:7a (ESV/CUV) (p.1/2)](# "ref")
+
+>>>
++ **life** is a chance to take **action**
+  + **turn** to God, draw close to Him
++ recognise our old way of living was **wrong**:
+  + habits / **behaviour** (way)
+  + and **thinking** / priorities
+
+---
+Let him **return** to the LORD, <br>
+that He may have **compassion** on him,
+
+and to our God, for He will abundantly **pardon**.
+
+<div class="zh">
+# TODO
+</div>
+
+[Isaiah 55:7b (ESV/CUV) (p.2/2)](# "ref")
+
+>>>
++ **return**: not a **foreign** / Western religion
++ God is the **Creator** of all mankind
+  + has **loved** us, **provided** for us
+  + turning to Him is coming **home**
++ He **welcomes** us and will **heal** our wounds
++ **confess** our sins, and He will **forgive**
++ e.g., JJ sharing **gospel** with grandpa
+  + **narrow way** to life, broad way to death
+  + "grandpa, will you **repent**?"
+  + "ah, let me **think** about it"
+  + "ok, I give you til **tomorrow morning**"
++ we are **impatient** for others to change
+  + but change need not require much **time**
+  + just a **willing** heart
++ e.g., after **long time** wandering from God
+  + how **long** before He **accepts** me back?
+  + the moment I **start** to pray
+  + **immediately** He pardons, has **compassion**
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Is there **hope** that I can **change**?
+# That my **loved ones** can change?
+
+>>>
++ where there is **life**, there is **hope**
++ can still take **action**
++ **seek** the Lord, **call** upon His name
++ turn **away** from being **boss** of own life
++ **return** to our Creator
++ He will have **compassion** and **forgiveness**
 
 ---
-## (outline)
+## (TODO: outline)
+
+>>>
++ Sol recognised God's sovereign **authority**
++ but not God's **compassion** + healing
++ if we know God brings **new life**
+  + both in **heaven** and right **now**
++ how does that **change** our **work**?
+  + how we spend our **time** on earth?
 
 ---
 Whatever your **hand** finds to do, do it with your **might**,
@@ -253,15 +408,105 @@ or wisdom in **Sheol**, to which you are going.
 
 [Ecclesiastes 傳道書 9:10 (ESV/CUV)](# "ref")
 
----
-## 1 cor 15:17-19
-## if only hope in this life
+>>>
++ Sol's **motivation** is imminence of
+  + the **grave** (Sheol, death: not hell)
++ but if there is no **life** after death,
+  + then even our **faith** in Jesus is futile:
 
 ---
-## 1 Cor 15:20
-## Christ has been raised
+If Christ has **not** been raised, <br>
+your faith is **futile** and you are still in your **sins**.
+
+Then those also who have <br>
+**fallen asleep** in Christ have **perished**.
+
+<div class="zh">
+# TODO
+</div>
+
+[1 Corinthians 15:17-18 (ESV/CUV) (p.1/4)](# "ref")
+
+>>>
++ if no **resurrection**, then we are
++ just nice **moral** people
+  + but ultimately no **better** than others
+  + still will **die** in our sins
+
+---
+If in Christ we have hope in **this life** only, <br>
+we are of all people most to be **pitied**.
+
+<div class="zh">
+# TODO
+</div>
+
+[1 Corinthians 15:19 (ESV/CUV) (p.2/4)](# "ref")
+
+>>>
++ and have even preached **lies** about God
++ saying that God **raised** Jesus from dead
++ but:
+
+---
+But in fact Christ has been **raised** from the dead,<br>
+the **firstfruits** of those who have fallen **asleep**.
+
+<div class="zh">
+# TODO
+</div>
+
+[1 Corinthians 15:20 (ESV/CUV) (p.3/4)](# "ref")
+
+>>>
++ **firstfruits**: first, best of the harvest
++ God demonstrated **authority** over life/death
+  + Christ **triumphed** over death
++ **first** to be raised from dead
+  + and **we** who trust in Him will **follow**!
+
+---
+For as by a man came **death**, by a man has come also<br>
+the **resurrection** of the dead.
+
+For as in **Adam** all **die**,<br>
+so also in **Christ** shall all be made **alive**.
+
+<div class="zh">
+# TODO
+</div>
+
+[1 Corinthians 15:21 (ESV/CUV) (p.4/4)](# "ref")
+
+>>>
++ **Adam**: first man, first **sin**
++ God **told** him what was right/wrong (**law**)
+  + Adam **rejected** it
+  + wanted to **decide** for self
++ **death** came as **penalty** for sin
++ **Christ** paid that penalty for us
+  + then gave us **new life**
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Is there **life** after **death**?
+
+>>>
++ is the **resurrection** real?
++ if Jesus was **not** raised, then
+  + he was only a good **teacher**
+  + but ultimately only **human**
++ and there is **no hope** for us, either
++ if he **was** raised, then
+  + He has **authority** over life/death
+  + He is our only **hope** of salvation
+
+---
+<!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> class="empty" -->
+
+---
+<!-- .slide: data-background="white" -->
+## 1. What are my **hopes** for myself and my loved ones?
+## 2. Is there **hope** that I / loved ones can **change**? [(Is55:7-11)](# "ref")
+## 3. Is there **life** after **death**? [(1Cor15:17-21)](# "ref")
 
