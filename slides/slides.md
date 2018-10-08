@@ -155,9 +155,9 @@ or wisdom in Sheol, to which you are going.
 ---
 <!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> id="outline" class="outline" -->
 ## Fate [(Ecc9)](# "ref")
-1. One **Fate** for All [(v1-3)](# "ref")
-2. Where There Is **Life**, There Is **Hope** [(v4-6)](# "ref")
-3. **Reward** in Life [(v7-10)](# "ref")
+1. **Hope** in Life [(v1-3)](# "ref")
+2. An Opportunity for **Change** [(v4-6)](# "ref")
+3. **Triumph** Over the Grave [(v7-10)](# "ref")
 
 >>>
 + we don't like to **think** about death
@@ -295,7 +295,11 @@ and the fate of beasts is the **same**.
   + what will **happen** after we **die**?
 
 ---
-## (TODO: outline)
+<!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> class="outline" -->
+## Fate [(Ecc9)](# "ref")
+1. Hope in Life [(v1-3)](# "ref")
+2. **An Opportunity for Change** [(v4-6)](# "ref")
+3. Triumph Over the Grave [(v7-10)](# "ref")
 
 >>>
 + if **all** die eventually,
@@ -400,7 +404,11 @@ and to our God, for He will abundantly **pardon**.
 + He will have **compassion** and **forgiveness**
 
 ---
-## (TODO: outline)
+<!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> class="outline" -->
+## Fate [(Ecc9)](# "ref")
+1. Hope in Life [(v1-3)](# "ref")
+2. An Opportunity for Change [(v4-6)](# "ref")
+3. **Triumph Over the Grave** [(v7-10)](# "ref")
 
 >>>
 + Sol recognised God's sovereign **authority**
@@ -428,6 +436,7 @@ or wisdom in **Sheol**, to which you are going.
 [Milada Vigerova](https://unsplash.com/photos/iQWvVYMtv1k "caption")
 
 >>>
++ will dwell on this more **tomorrow**
 + Sol's **motivation** is imminence of
   + the **grave** (Sheol, death: not hell)
 + but if there is no **life** after death,
