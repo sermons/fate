@@ -166,10 +166,12 @@ or wisdom in Sheol, to which you are going.
 
 ---
 <!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
-
-# TODO
+The heart of the **wise** is in the house of **mourning**,<br>
+but the heart of **fools** is in the house of **mirth**.
 
 <div class="zh">
+智 慧 人 的 心 在 遭 喪 之 家 ； <br>
+愚 昧 人 的 心 在 快 樂 之 家 。
 </div>
 
 [Ecclesiastes 傳道書 7:4 (ESV/CUV) (p.1/2)](# "ref")
@@ -178,16 +180,24 @@ or wisdom in Sheol, to which you are going.
 >>>
 + house of **mourning**:
   + think about, **prepare** for death
-+ house of **pleasure**:
++ house of **mirth**:
   + **ignore** death
   + **distract** self
 + again in **v2** of same ch:
 
 ---
 <!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
-# TODO
+It is better to go to the house of **mourning**<br>
+than to go to the house of **feasting**,
+
+for this is the **end** of all mankind,<br>
+and the **living** will lay it to **heart**.
 
 <div class="zh">
+往 遭 喪 的 家 去 ， <br>
+強 如 往 宴 樂 的 家 去 ；<br>
+因 為 死 是 眾 人 的 結 局 ， <br>
+活 人 也 必 將 這 事 放 在 心 上 。
 </div>
 
 [Ecclesiastes 傳道書 7:2 (ESV/CUV) (p.2/2)](# "ref")
@@ -343,10 +353,14 @@ Let the **wicked** forsake his **way**;<br>
 and the **unrighteous** man his **thoughts**;
 
 <div class="zh">
-# TODO
+當 趁 耶 和 華 可 尋 找 的 時 候 尋 找 他 ，<br>
+相 近 的 時 候 求 告 他 。<br>
+[7](# "ref")
+惡 人 當 離 棄 自 己 的 道 路 ；<br>
+不 義 的 人 當 除 掉 自 己 的 意 念 。
 </div>
 
-[Isaiah 55:7a (ESV/CUV) (p.1/2)](# "ref")
+[Isaiah 以賽亞書 55:6-7a (ESV/CUV) (p.1/2)](# "ref")
 [Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
@@ -364,10 +378,13 @@ that He may have **compassion** on him,
 and to our God, for He will abundantly **pardon**.
 
 <div class="zh">
-# TODO
+歸 向 耶 和 華 ，<br>
+耶 和 華 就 必 憐 恤 他 ；<br>
+當 歸 向 我 們 的 神 ，<br>
+因 為 神 必 廣 行 赦 免 。
 </div>
 
-[Isaiah 55:7b (ESV/CUV) (p.2/2)](# "ref")
+[Isaiah 以賽亞書 55:7b (ESV/CUV) (p.2/2)](# "ref")
 [Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
@@ -444,14 +461,21 @@ or wisdom in **Sheol**, to which you are going.
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
+[17](# "ref")
 If Christ has **not** been raised, <br>
 your faith is **futile** and you are still in your **sins**.
 
+[18](# "ref")
 Then those also who have <br>
 **fallen asleep** in Christ have **perished**.
 
 <div class="zh">
-# TODO
+[17](# "ref")
+基 督 若 沒 有 復 活 ，<br>
+你 們 的 信 便 是 徒 然 ， 你 們 仍 在 罪 裡 。<br>
+
+[18](# "ref")
+就 是 在 基 督 裡 睡 了 的 人 也 滅 亡 了 。
 </div>
 
 [1 Corinthians 15:17-18 (ESV/CUV) (p.1/4)](# "ref")
@@ -465,11 +489,15 @@ Then those also who have <br>
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
+[19](# "ref")
 If in Christ we have hope in **this life** only, <br>
 we are of all people most to be **pitied**.
 
 <div class="zh">
-# TODO
+[19](# "ref")
+我 們 若 靠 基 督 ，<br>
+只 在 今 生 有 指 望 ，<br>
+就 算 比 眾 人 更 可 憐 。
 </div>
 
 [1 Corinthians 15:19 (ESV/CUV) (p.2/4)](# "ref")
@@ -482,11 +510,14 @@ we are of all people most to be **pitied**.
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
+[20](# "ref")
 But in fact Christ has been **raised** from the dead,<br>
 the **firstfruits** of those who have fallen **asleep**.
 
 <div class="zh">
-# TODO
+[20](# "ref")
+但 基 督 已 經 從 死 裡 復 活 ，<br>
+成 為 睡 了 之 人 初 熟 的 果 子 。
 </div>
 
 [1 Corinthians 15:20 (ESV/CUV) (p.3/4)](# "ref")
@@ -501,17 +532,24 @@ the **firstfruits** of those who have fallen **asleep**.
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
+[21](# "ref")
 For as by a man came **death**, by a man has come also<br>
 the **resurrection** of the dead.
 
+[22](# "ref")
 For as in **Adam** all **die**,<br>
 so also in **Christ** shall all be made **alive**.
 
 <div class="zh">
-# TODO
+[21](# "ref")
+死 既 是 因 一 人 而 來 ， <br>
+死 人 復 活 也 是 因 一 人 而 來 。<br>
+[22](# "ref")
+在 亞 當 裡 眾 人 都 死 了 ； <br>
+照 樣 ， 在 基 督 裡 眾 人 也 都 要 復 活 。
 </div>
 
-[1 Corinthians 15:21 (ESV/CUV) (p.4/4)](# "ref")
+[1 Corinthians 15:21-22 (ESV/CUV) (p.4/4)](# "ref")
 [St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 >>>
@@ -544,5 +582,5 @@ so also in **Christ** shall all be made **alive**.
 <!-- .slide: data-background="white" -->
 ## 1. What are my **hopes** for myself and my loved ones?
 ## 2. Is there **hope** that I / loved ones can **change**? [(Is55:7-11)](# "ref")
-## 3. Is there **life** after **death**? [(1Cor15:17-21)](# "ref")
+## 3. Is there **life** after **death**? [(1Cor15:17-22)](# "ref")
 
