@@ -50,7 +50,7 @@ and their deeds are in the hand of God.
 並 他 們 的 作 為 都 在 神 手 中 ；<br>
 </div>
 
-[Ecclesiastes 傳道書 9:1a (ESV/CUV) (p.1/8)](# "ref")
+[Ecclesiastes 傳道書 9:1a (ESV/CUV) (p.1/7)](# "ref")
 
 ---
 [2](# "ref")
@@ -63,7 +63,7 @@ happens to the righteous and the wicked,
 義 人 和 惡 人 都 遭 遇 一 樣 的 事 ；
 </div>
 
-[Ecclesiastes 傳道書 9:2a (ESV/CUV) (p.2/8)](# "ref")
+[Ecclesiastes 傳道書 9:2a (ESV/CUV) (p.2/7)](# "ref")
 
 ---
 Also, the hearts of the children of man are full of evil,<br>
@@ -76,7 +76,7 @@ and after that they go to the dead.
 後 來 就 歸 死 人 那 裡 去 了 。
 </div>
 
-[Ecclesiastes 傳道書 9:3 (ESV/CUV) (p.3/8)](# "ref")
+[Ecclesiastes 傳道書 9:3 (ESV/CUV) (p.3/7)](# "ref")
 
 ---
 [4](# "ref")
@@ -90,7 +90,7 @@ for a living dog is better than a dead lion.
 因 為 活 著 的 狗 比 死 了 的 獅 子 更 強 。<br>
 </div>
 
-[Ecclesiastes 傳道書 9:4 (ESV/CUV) (p.4/8)](# "ref")
+[Ecclesiastes 傳道書 9:4 (ESV/CUV) (p.4/7)](# "ref")
 
 ---
 [5](# "ref")
@@ -107,33 +107,26 @@ for the memory of them is forgotten.
 他 們 的 名 無 人 記 念 。
 </div>
 
-[Ecclesiastes 傳道書 9:5 (ESV/CUV) (p.5/8)](# "ref")
+[Ecclesiastes 傳道書 9:5 (ESV/CUV) (p.5/7)](# "ref")
 
 ---
 [9](# "ref")
 Enjoy life with the wife whom you love, <br>
 all the days of your vain life <br>
-that he has given you under the sun,
+that he has given you under the sun,<br>
+because that is your portion in life <br>
+and in your toil at which you toil under the sun.
 
 <div class="zh">
 [9](# "ref")
 在 你 一 生 虛 空 的 年 日 ， 就 是 <br>
 神 賜 你 在 日 光 之 下 虛 空 的 年 日 ，<br>
 當 同 你 所 愛 的 妻 ， 快 活 度 日 ，<br>
-</div>
-
-[Ecclesiastes 傳道書 9:9a (ESV/CUV) (p.6/8)](# "ref")
-
----
-because that is your portion in life <br>
-and in your toil at which you toil under the sun.
-
-<div class="zh">
 因 為 那 是 你 生 前 在 日 光 之 下<br>
 勞 碌 的 事 上 所 得 的 分 。
 </div>
 
-[Ecclesiastes 傳道書 9:9b (ESV/CUV) (p.7/8)](# "ref")
+[Ecclesiastes 傳道書 9:9 (ESV/CUV) (p.6/7)](# "ref")
 
 ---
 [10](# "ref")
@@ -150,7 +143,7 @@ or wisdom in Sheol, to which you are going.
 也 沒 有 智 慧 。
 </div>
 
-[Ecclesiastes 傳道書 9:10 (ESV/CUV) (p.8/8](# "ref")
+[Ecclesiastes 傳道書 9:10 (ESV/CUV) (p.7/7](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> id="outline" class="outline" -->
