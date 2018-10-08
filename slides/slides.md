@@ -264,20 +264,26 @@ I said to myself concerning the sons of **men**, <br>
 “God has surely **tested** them in order  <br>
 for them to see that they are but **beasts**.”
 
-For the **fate** of the sons of men <br>
-and the fate of beasts is the **same**.
-
 <div class="zh">
 我 心 裡 說 ， 這 乃 為 世 人 的 緣 故 ， <br>
 是 神 要 試 驗 他 們 ，  <br>
 使 他 們 覺 得 自 己 不 過 像 獸 一 樣 。<br>
+</div>
 
-[19](# "ref")
+[Ecclesiastes 傳道書 3:18 (ESV/CUV) (p.1/2)](# "ref")
+[Flängan, Norberg.  Adam Morse](https://unsplash.com/photos/M7fi58_dF5k "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-M7fi58_dF5k-cow.jpg") %> -->
+For the **fate** of the sons of men <br>
+and the fate of beasts is the **same**.
+
+<div class="zh">
 因 為 世 人 遭 遇 的 ， 獸 也 遭 遇 ， <br>
 所 遭 遇 的 都 是 一 樣 ：
 </div>
 
-[Ecclesiastes 傳道書 3:18-19 (ESV/CUV) (p.1/2)](# "ref")
+[Ecclesiastes 傳道書 3:19 (ESV/CUV) (p.2/2)](# "ref")
 [Flängan, Norberg.  Adam Morse](https://unsplash.com/photos/M7fi58_dF5k "caption")
 
 >>>
