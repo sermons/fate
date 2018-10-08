@@ -165,12 +165,15 @@ or wisdom in Sheol, to which you are going.
 + but ch7 tells us it is **good** to:
 
 ---
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
+
 # TODO
 
 <div class="zh">
 </div>
 
 [Ecclesiastes 傳道書 7:4 (ESV/CUV) (p.1/2)](# "ref")
+[Yuriria, Mexico.  Cristian Newman](https://unsplash.com/photos/Zi8-E3qJ_RM "caption")
 
 >>>
 + house of **mourning**:
@@ -181,12 +184,14 @@ or wisdom in Sheol, to which you are going.
 + again in **v2** of same ch:
 
 ---
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
 # TODO
 
 <div class="zh">
 </div>
 
 [Ecclesiastes 傳道書 7:2 (ESV/CUV) (p.2/2)](# "ref")
+[Yuriria, Mexico.  Cristian Newman](https://unsplash.com/photos/Zi8-E3qJ_RM "caption")
 
 >>>
 + **young** people: death is **far** off
@@ -197,6 +202,7 @@ or wisdom in Sheol, to which you are going.
 + Sol's observation in **today's** passage:
 
 ---
+<!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> -->
 It is the **same** for all, since the same event <br>
 happens to the **righteous** and the **wicked**, <br>
 
@@ -206,6 +212,7 @@ happens to the **righteous** and the **wicked**, <br>
 </div>
 
 [Ecclesiastes 傳道書 9:2 (ESV/CUV)](# "ref")
+[Silverthorne, CO. Nathan Anderson](https://unsplash.com/photos/mKA3VavSuaI "caption")
 
 >>>
 + from Sol's perspective, only sees up to **death**
@@ -219,6 +226,7 @@ happens to the **righteous** and the **wicked**, <br>
   + is toward **evil**:
 
 ---
+<!-- .slide: <%= bg("unsplash-Zldz46wahbE-back_mirror.jpg") %> -->
 Also, the **hearts** of the children of man <br>
 are full of **evil**, <br>
 and **madness** is in their hearts while they live, <br>
@@ -231,6 +239,7 @@ and after that they go to the **dead**.
 </div>
 
 [Ecclesiastes 傳道書 9:3 (ESV/CUV)](# "ref")
+[San Diego, US. Tyler Mullins](https://unsplash.com/photos/Zldz46wahbE "caption")
 
 >>>
 + given **freedom** of choice, we choose
@@ -240,6 +249,7 @@ and after that they go to the **dead**.
   + compares us to the **animals**:
 
 ---
+<!-- .slide: <%= bg("unsplash-M7fi58_dF5k-cow.jpg") %> -->
 I said to myself concerning the sons of **men**, <br>
 “God has surely **tested** them in order  <br>
 for them to see that they are but **beasts**.”
@@ -258,6 +268,7 @@ and the fate of beasts is the **same**.
 </div>
 
 [Ecclesiastes 傳道書 3:18-19 (ESV/CUV) (p.1/2)](# "ref")
+[Flängan, Norberg.  Adam Morse](https://unsplash.com/photos/M7fi58_dF5k "caption")
 
 >>>
 + if our only **hope** is in **this** life,
@@ -291,6 +302,7 @@ and the fate of beasts is the **same**.
 + is **life** any better than **death**?
 
 ---
+<!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> -->
 But he who is joined with all the **living** has **hope**, <br>
 for a **living dog** is better than a **dead lion**.
 
@@ -301,6 +313,7 @@ for a **living dog** is better than a **dead lion**.
 </div>
 
 [Ecclesiastes 傳道書 9:4 (ESV/CUV)](# "ref")
+[Highclere Castle, UK](https://unsplash.com/photos/c8ET5XvBwnU "caption")
 
 >>>
 + "dead lion": famous **historical** people
@@ -317,6 +330,7 @@ for a **living dog** is better than a **dead lion**.
   + Isaiah 55:
 
 ---
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
 **Seek** the LORD while He may be **found**; <br>
 **call upon** Him while He is **near**;
 
@@ -329,6 +343,7 @@ and the **unrighteous** man his **thoughts**;
 </div>
 
 [Isaiah 55:7a (ESV/CUV) (p.1/2)](# "ref")
+[Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
 + **life** is a chance to take **action**
@@ -338,6 +353,7 @@ and the **unrighteous** man his **thoughts**;
   + and **thinking** / priorities
 
 ---
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
 Let him **return** to the LORD, <br>
 that He may have **compassion** on him,
 
@@ -348,6 +364,7 @@ and to our God, for He will abundantly **pardon**.
 </div>
 
 [Isaiah 55:7b (ESV/CUV) (p.2/2)](# "ref")
+[Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
 + **return**: not a **foreign** / Western religion
@@ -394,6 +411,7 @@ and to our God, for He will abundantly **pardon**.
   + how we spend our **time** on earth?
 
 ---
+<!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 Whatever your **hand** finds to do, do it with your **might**,
 
 for there is no **work** or **thought** or knowledge <br>
@@ -407,6 +425,7 @@ or wisdom in **Sheol**, to which you are going.
 </div>
 
 [Ecclesiastes 傳道書 9:10 (ESV/CUV)](# "ref")
+[Milada Vigerova](https://unsplash.com/photos/iQWvVYMtv1k "caption")
 
 >>>
 + Sol's **motivation** is imminence of
@@ -415,6 +434,7 @@ or wisdom in **Sheol**, to which you are going.
   + then even our **faith** in Jesus is futile:
 
 ---
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
 If Christ has **not** been raised, <br>
 your faith is **futile** and you are still in your **sins**.
 
@@ -426,6 +446,7 @@ Then those also who have <br>
 </div>
 
 [1 Corinthians 15:17-18 (ESV/CUV) (p.1/4)](# "ref")
+[St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 >>>
 + if no **resurrection**, then we are
@@ -434,6 +455,7 @@ Then those also who have <br>
   + still will **die** in our sins
 
 ---
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
 If in Christ we have hope in **this life** only, <br>
 we are of all people most to be **pitied**.
 
@@ -442,6 +464,7 @@ we are of all people most to be **pitied**.
 </div>
 
 [1 Corinthians 15:19 (ESV/CUV) (p.2/4)](# "ref")
+[St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 >>>
 + and have even preached **lies** about God
@@ -449,6 +472,7 @@ we are of all people most to be **pitied**.
 + but:
 
 ---
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
 But in fact Christ has been **raised** from the dead,<br>
 the **firstfruits** of those who have fallen **asleep**.
 
@@ -457,6 +481,7 @@ the **firstfruits** of those who have fallen **asleep**.
 </div>
 
 [1 Corinthians 15:20 (ESV/CUV) (p.3/4)](# "ref")
+[St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 >>>
 + **firstfruits**: first, best of the harvest
@@ -466,6 +491,7 @@ the **firstfruits** of those who have fallen **asleep**.
   + and **we** who trust in Him will **follow**!
 
 ---
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
 For as by a man came **death**, by a man has come also<br>
 the **resurrection** of the dead.
 
@@ -477,6 +503,7 @@ so also in **Christ** shall all be made **alive**.
 </div>
 
 [1 Corinthians 15:21 (ESV/CUV) (p.4/4)](# "ref")
+[St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 >>>
 + **Adam**: first man, first **sin**
