@@ -1,7 +1,7 @@
 # Fate (4/5)
 ## Ecc9:1-10
 
-[![Build status](https://api.travis-ci.org/sermons/fate.svg)](https://travis-ci.org/github/sermons/fate)
+[![Build status](https://api.travis-ci.com/sermons/fate.svg)](https://travis-ci.com/github/sermons/fate)
 [![Node deps](https://david-dm.org/sermons/fate.svg)](https://david-dm.org/sermons/fate)
 [![Node devDeps](https://david-dm.org/sermons/fate/dev-status.svg)](https://david-dm.org/sermons/fate?type=dev)
 
