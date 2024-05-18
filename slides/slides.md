@@ -1,17 +1,17 @@
 <!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> id="title" -->
 # Fate
 ## Ecclesiastes 9:1-10
-### The Meaning of Life (3/4)
+### The Search for Meaning (3/4)
 
 [Neil Thomas](https://unsplash.com/photos/bSYRuzEaT5k "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="series" class="outline" -->
 1. *Sat pm:* What is **Wisdom**? [(ch1)](# "ref")
-1. *Sun am:* Is there <br> meaning
+1. *Sun am:* Is there meaning <br>
   in **Ambition** + **Money**? [(ch2,5)](# "ref")
-1. *Sun pm:* What is the **Fate** of mankind? [(ch9)](# "ref")
-1. *Mon am:* What is the meaning of **Life**? [(ch12)](# "ref")
+1. *Sun pm:* What is the <br> **Fate** of mankind? [(ch9)](# "ref")
+1. *Mon am:* What is the <br> meaning of **Life**? [(ch12)](# "ref")
 
 >>>
 + Sol's **search** for meaning / purpose
@@ -40,37 +40,31 @@ But all this I laid to heart, examining it all, <br>
 how the righteous and the wise <br>
 and their deeds are in the hand of God.
 
-[Ecclesiastes 9:1a (ESV) (p.1/7)](# "ref")
-
-******
 [2](# "ref")
 It is the same for all, since the same event <br>
 happens to the righteous and the wicked,
 
-[Ecclesiastes 9:2a (ESV) (p.2/7)](# "ref")
+[Ecclesiastes 9:1a,2a (ESV) (p.1/5)](# "ref")
 
 ******
 Also, the hearts of the children of man are full of evil,<br>
 and madness is in their hearts while they live, <br>
 and after that they go to the dead.
 
-[Ecclesiastes 9:3 (ESV) (p.3/7)](# "ref")
+[Ecclesiastes 9:3 (ESV) (p.2/5)](# "ref")
 
 ******
 [4](# "ref")
 But he who is joined with all the living has hope, <br>
 for a living dog is better than a dead lion.
 
-[Ecclesiastes 9:4 (ESV) (p.4/7)](# "ref")
-
-******
 [5](# "ref")
 For the living know that they will die, <br>
 but the dead know nothing, <br>
 and they have no more reward,<br>
 for the memory of them is forgotten.
 
-[Ecclesiastes 9:5 (ESV) (p.5/7)](# "ref")
+[Ecclesiastes 9:4-5 (ESV) (p.3/5)](# "ref")
 
 ******
 [9](# "ref")
@@ -81,7 +75,7 @@ that he has given you under the sun,
 because that is your portion in life <br>
 and in your toil at which you toil under the sun.
 
-[Ecclesiastes 9:9 (ESV) (p.6/7)](# "ref")
+[Ecclesiastes 9:9 (ESV) (p.4/5)](# "ref")
 
 ******
 [10](# "ref")
@@ -90,7 +84,7 @@ Whatever your hand finds to do, do it with your might,
 for there is no work or thought or knowledge <br>
 or wisdom in Sheol, to which you are going.
 
-[Ecclesiastes 9:10 (ESV) (p.7/7](# "ref")
+[Ecclesiastes 9:10 (ESV) (p.5/5)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> id="outline" class="outline" -->
