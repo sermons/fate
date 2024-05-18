@@ -1,7 +1,7 @@
 {
   "name": "@sermons/fate",
   "repository": "sermons/fate",
-  "description": "Ecc9:1-10 Fate (4/5)",
+  "description": "Ecc9:1-10 Fate (3/4)",
   "keywords": [
     "sermon",
     "meaning",
@@ -21,6 +21,12 @@
       "email": "travis@seanho.com"
     },
     "history": [
+      {
+        "venue": "Richmond Chinese MB Church",
+        "city": "Langley",
+        "date": "2024-05-19",
+        "duration": 0
+      },
       {
         "venue": "Zion Christian Reformed Church",
         "city": "Chilliwack",
