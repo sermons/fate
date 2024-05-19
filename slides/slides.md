@@ -1,5 +1,8 @@
 <!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> id="title" -->
 # Fate
+
+<IMG SRC="/img/fate-qr.png" class="r-stretch" />
+
 ## Ecclesiastes 9:1-10
 ### The Search for Meaning (3/4)
 
@@ -47,7 +50,8 @@ happens to the righteous and the wicked,
 [Ecclesiastes 9:1a,2a (ESV) (p.1/5)](# "ref")
 
 ******
-Also, the hearts of the children of man are full of evil,<br>
+Also, the hearts of the children of man <br>
+are full of evil,<br>
 and madness is in their hearts while they live, <br>
 and after that they go to the dead.
 
@@ -55,7 +59,8 @@ and after that they go to the dead.
 
 ******
 [4](# "ref")
-But he who is joined with all the living has hope, <br>
+But he who is joined with all the living <br>
+has hope, <br>
 for a living dog is better than a dead lion.
 
 [5](# "ref")
@@ -79,7 +84,8 @@ and in your toil at which you toil under the sun.
 
 ******
 [10](# "ref")
-Whatever your hand finds to do, do it with your might,
+Whatever your hand finds to do, <br>
+do it with your might,
 
 for there is no work or thought or knowledge <br>
 or wisdom in Sheol, to which you are going.
@@ -100,8 +106,11 @@ or wisdom in Sheol, to which you are going.
 
 ---
 <!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
-The heart of the **wise** is in the house of **mourning**,<br>
-but the heart of **fools** is in the house of **mirth**.
+The heart of the **wise** <br>
+is in the house of **mourning**,
+
+but the heart of **fools** <br>
+is in the house of **mirth**.
 
 [Ecclesiastes 7:4 (ESV) (p.1/2)](# "ref")
 [Yuriria, Mexico.  Cristian Newman](https://unsplash.com/photos/Zi8-E3qJ_RM "caption")
@@ -155,7 +164,8 @@ happens to the **righteous** and the **wicked**, <br>
 ---
 <!-- .slide: <%= bg("unsplash-Zldz46wahbE-back_mirror.jpg") %> -->
 Also, the **hearts** of the children of man <br>
-are full of **evil**, <br>
+are full of **evil**,
+
 and **madness** is in their hearts while they live, <br>
 and after that they go to the **dead**.
 
@@ -178,7 +188,7 @@ for them to see that they are but **beasts**.”
 For the **fate** of the sons of men <br>
 and the fate of beasts is the **same**.
 
-[Ecclesiastes 傳道書 3:18-19 (ESV)](# "ref")
+[Ecclesiastes 3:18-19 (ESV)](# "ref")
 [Flängan, Norberg. Adam Morse](https://unsplash.com/photos/M7fi58_dF5k "caption")
 
 >>>
@@ -218,7 +228,8 @@ and the fate of beasts is the **same**.
 
 ---
 <!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> -->
-But he who is joined with all the **living** has **hope**, <br>
+But he who is joined with all the **living** <br>
+has **hope**, <br>
 for a **living dog** is better than a **dead lion**.
 
 [Ecclesiastes 9:4 (ESV)](# "ref")
@@ -288,7 +299,7 @@ and to our God, for He will abundantly **pardon**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Is there **hope** that I can **change**?
+# Is there **hope** that <br> I can **change**?
 # That my **loved ones** can change?
 
 >>>
@@ -316,7 +327,8 @@ and to our God, for He will abundantly **pardon**.
 
 ---
 <!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
-Whatever your **hand** finds to do, do it with your **might**,
+Whatever your **hand** finds to do, <br>
+do it with your **might**,
 
 for there is no **work** or **thought** or knowledge <br>
 or wisdom in **Sheol**, to which you are going.
@@ -356,10 +368,12 @@ we are of all people most to be **pitied**.
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
-But in fact Christ has been **raised** from the dead,<br>
+But in fact Christ has been <br>
+**raised** from the dead,<br>
 the **firstfruits** of those who have fallen **asleep**.
 
-For as by a man came **death**, by a man has come also<br>
+For as by a man came **death**, <br>
+by a man has come also<br>
 the **resurrection** of the dead.
 
 For as in **Adam** all **die**,<br>
@@ -384,7 +398,7 @@ so also in **Christ** shall all be made **alive**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Is there **life** after **death**?
+# Is there **life** <br> after **death**?
 
 >>>
 + is the **resurrection** real?
