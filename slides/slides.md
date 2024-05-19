@@ -416,6 +416,6 @@ so also in **Christ** shall all be made **alive**.
 ---
 <!-- .slide: data-background="white" -->
 ## 1. What are my **hopes** for myself and my loved ones?
-## 2. Is there **hope** that I / loved ones can **change**? [(Is55:7-11)](# "ref")
+## 2. Is there **hope** that I or they can **change**? [(Is55:7-11)](# "ref")
 ## 3. Is there **life** after **death**? [(1Cor15:17-22)](# "ref")
 
